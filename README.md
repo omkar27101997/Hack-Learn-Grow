@@ -1,1 +1,1 @@
-# Hack-Learn-Grow
+# hack-learn-grow
