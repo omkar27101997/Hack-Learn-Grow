@@ -3,8 +3,8 @@
 Author: Omkar mali
 ## 🛠 Step 1: Start Metasploit Framework
 To start the Metasploit console, run the following command: <br></br>
-##5. Session Hijacking Countermeasures
-##Definition (Simple Hinglish):
+##5. Session Hijacking Countermeasures<br><b/br>
+##Definition (Simple Hinglish):<br><b/br>
 Countermeasures woh techniques, technologies, aur best practices hain jinka use karke hum Session Hijacking attacks ko rok (prevent) sakte hain, pata laga (detect) sakte hain, aur unse bach (defend) sakte hain. CEH exam mein countermeasures par bahut focus kiya jaata hai. <br><b/br>
 ##📝 Exam Focus:
 Encryption: SSL/TLS (HTTPS) ka use.
